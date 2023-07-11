@@ -20,7 +20,7 @@
 
 The password length can be set to a minimum of 8 characters and a maximum of 20 characters.  <br>
 SafePass does not store or manage generated passwords. It is the user's responsibility to keep track of their generated passwords.  <br>
-# Source Code: : <br>
+# Source Code: ✅ <br>
 The SafePass source code is available on GitHub and can be modified and extended by developers. The code is well-documented and easy to understand, making it a great project for beginners or those looking to improve their C# skills.  <br>
 
 # Conclusion:  <br>
